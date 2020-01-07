@@ -134,7 +134,7 @@ namespace Hangman.Tests
                 game.SelectTopic("Fruits");
                 game.PickLetter('Z');
                 game.PickLetter('X');
-                game.PickLetter('Y');
+                game.PickLetter('J');
                 game.PickLetter('V');
                 game.PickLetter('S');
                 game.PickLetter('C');
